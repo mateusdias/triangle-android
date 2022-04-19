@@ -59,3 +59,5 @@ O arquivo google-services.json deve ser adicionado dentro do diretorio app como 
 
 Ao clicar no botão verificar, invoque a function que vai analisar se os 3 lados formam um triangulo e mostre o resultado na tela como desejar. 
 Podendo ser um card ou apenas um snackbar.
+
+## AO FINAL DA AULA CHAME O PROFESSOR E MOSTRE O RESULTADO ATÉ ONDE VOCÊ CHEGOU.
